@@ -36,8 +36,22 @@
 <br>
 
 <div align="center">
-  <p><strong>🛠️ Diller & Teknolojiler</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,postgres,mysql,kali,linux,docker,git,github,vscode&theme=dark" />
+  <h3>🛠️ Yetenekler & Uzmanlık Alanları</h3>
+  
+  <p><strong>💻 Programlama & Web Teknolojileri</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
+  <br><br>
+
+  <p><strong>🛡️ Ağ & Siber Güvenlik Araçları</strong></p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,wireshark,regex&theme=dark" />
+  <br><br>
+
+  <p><strong>🗄️ Veritabanı & Altyapı</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker&theme=dark" />
+  <br><br>
+
+  <p><strong>⚙️ Geliştirici Ortamı & Versiyon Kontrolü</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </div>
 
 <br>
@@ -50,8 +64,9 @@
 <br>
 
 <div align="center">
-  <p><strong>📈 GitHub Streak İstatistikleri</strong></p>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AtakaanShiva&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <p><strong>📈 GitHub İstatistikleri</strong></p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AtakaanShiva&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0D1117" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtakaanShiva&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=ffffff&bg_color=0D1117" />
 </div>
 
 <br>
